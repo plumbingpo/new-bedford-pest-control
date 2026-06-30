@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://newbedfordpestcontrolco.com/sitemap.xml
